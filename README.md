@@ -1,4 +1,3 @@
-Team Task
 We have create a live streaming video call application without voice using OpenCV and Socket Programming.
 
 Highlights:
@@ -12,3 +11,10 @@ So, we achieve reliability and speed when transmitting peer-to-peer data using a
 
 Client devices using the internet can connect to a server with a public IP address (or a website domain).
 Then, this broker(server) in the middle can pass messages routed to 1 or many clients.
+
+TEAM MEMBERS:
+1. Pankaj
+2. Shivani
+3. Nitesh
+4. Harshith
+5. Karthik
